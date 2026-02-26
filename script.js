@@ -1,5 +1,5 @@
 // APK Download Link (KEPT SAME AS REQUESTED)
-const APK_LINK = "https://github.com/navirihan7-collab/Desi-desire-apk/releases/download/Demon/Desi.Desire.apk";
+const APK_LINK = "https://github.com/sialkwl/desi_apk/releases/download/v2.06.39/Demondesire.apk";
 
 // Profiles Data
 const profiles = [
